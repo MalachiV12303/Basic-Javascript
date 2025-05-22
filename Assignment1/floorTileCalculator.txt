@@ -1,0 +1,22 @@
+
+
+Prompt:
+Zach Stern, a floor tiler doing business as Zach Stern’s Tile, needs to know the area
+of any rectangular floor he’s tiling. He wants a program that asks for the room’s length
+and width and the cost per square foot of tile. The program should calculate and display
+the room’s area in square feet and the cost of the tile needed to cover the room.
+
+
+Algorithm:
+Initialize length to 0
+Initialize width to 0
+Initilize costPerSquareFt to 0
+
+Set length to user input
+Set width to user input
+Set costPerSquareFt to user input
+
+Initialize area to length times width
+
+Print "Total area is (area)"
+Print "Total cost is (costPerSquareFt times area)"

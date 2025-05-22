@@ -1,0 +1,18 @@
+
+
+Prompt:
+Employees at Morning Buzz Coffee Shop have been told they’ll get a bonus if they
+bring in enough pounds of recyclable newspapers. They want a program to calculate
+the amount they need to bring in each day to make this total, based on the total number
+of pounds to be collected and the number of days they’ll be bringing in newspapers. The
+program should ask for these amounts and calculate how many pounds they need to
+bring in each day to make the total in that number of days. They plan to run the program
+several times until they find a number of pounds that seems reasonable.
+
+
+Algorithm:
+Initialize poundsRequired to total number of pounds needed to collect
+Initialize days to total days they have to collect these papers
+
+Set perDay to poundsRequired divided by days
+Print "It would take a rate of (perDay) pounds per day to achieve (poundsRequired) pounds in (days) days"
