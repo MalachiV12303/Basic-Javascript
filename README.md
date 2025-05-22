@@ -1,0 +1,2 @@
+# Assignments from JavaScript (COP2801) 2022  
+This course will teach students to write JavaScript programs that can be executed by the major Web browsers. These programs will be created using this object-based scripting language. Students will conceptualize and develop JavaScript programs using strings, arrays, built-in functions, user-defined functions, control structures, and looping structures.  
