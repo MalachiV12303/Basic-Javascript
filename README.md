@@ -3,7 +3,7 @@ This course will teach students to write JavaScript programs that can be execute
 
 # Assignment 2
 ### program1_1.js  
-Do a simple math problem.
+Do a simple math problem. 
 ```
 var m = 4.3;
 var x = 5;
